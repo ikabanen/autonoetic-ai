@@ -3,10 +3,10 @@
     <channel>
         <title>Appcast</title>
         <item>
-            <title>Version 1.23.1</title>
-            <description>Minor updates and improvements.</description>
-            <pubDate>Tue, 11 Oct 2022 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.autonoetica.fortune_app" sparkle:version="1.23.1" sparkle:os="android" />
+            <title>Version 1.26.1</title>
+            <description>Horoscope updates and minor improvements.</description>
+            <pubDate>Wed, 12 Apr 2023 12:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.autonoetica.fortune_app" sparkle:version="1.26.1" sparkle:os="android" />
         </item>
     </channel>
 </rss>
