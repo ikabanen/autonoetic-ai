@@ -1,4 +1,5 @@
 {"pisces": [
+    {"date": 0, "Message": "NO DATA could be loaded. Please check your internet connection or try again later."},
     {"date": 21, "month": 8, "year": 2023, "Aspects": ["Mercury: Opposition", "Mars: Opposition", "Pluto: Sextile", "Uranus: Sextile", "Jupiter: Sextile", "Neptune: conjunction", "Saturn: conjunction"]},
      {"date": 22, "month": 8, "year": 2023, "Aspects": ["Mercury: Opposition", "Mars: Opposition", "Pluto: Sextile", "Uranus: Sextile", "Jupiter: Sextile", "Neptune: conjunction", "Saturn: conjunction"]},
      {"date": 23, "month": 8, "year": 2023, "Aspects": ["Mercury: Opposition", "Mars: Opposition", "Pluto: Sextile", "Uranus: Sextile", "Jupiter: Sextile", "Neptune: conjunction", "Saturn: conjunction"]},
