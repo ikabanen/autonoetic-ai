@@ -32,8 +32,19 @@
     {"date": 27, "month": 9, "year": 2023, "Aspects": ["Saturn: semi-sextile", "Sun: trine", "Moon: semi-sextile", "Jupiter: square", "Mercury: quincunx", "Mars: trine", "Venus: opposition", "Uranus: square", "Neptune: semi-sextile", "Pluto: semi-sextile"]},
     {"date": 28, "month": 9, "year": 2023, "Aspects": ["Saturn: semi-sextile", "Sun: trine", "Jupiter: square", "Moon: semi-sextile", "Pluto: semi-sextile"]},
     {"date": 29, "month": 9, "year": 2023, "Aspects": ["Saturn: semi-sextile", "Sun: trine", "Moon: sextile", "Jupiter: square",  "Neptune: semi-sextile", "Pluto: semi-sextile"]},
-    {"date": 30, "month": 9, "year": 2023, "Aspects": ["Saturn: semi-sextile", "Sun: trine", "Jupiter: square", "Moon: sextile", "Pluto: semi-sextile"]}
-    
+    {"date": 30, "month": 9, "year": 2023, "Aspects": ["Saturn: semi-sextile", "Sun: trine", "Jupiter: square", "Moon: sextile", "Pluto: semi-sextile"]},
+    {"date": 1, "month": 10, "year": 2023, "Aspects": ["Saturn: semi-sextile", "Sun: trine", "Moon: square", "Jupiter: square", "Neptune: semi-sextile", "Pluto: semi-sextile"]},
+{"date": 2, "month": 10, "year": 2023, "Aspects": ["Saturn: semi-sextile", "Sun: trine", "Jupiter: square",  "Mercury: quincunx", "Pluto: semi-sextile"]},
+{"date": 3, "month": 10, "year": 2023, "Aspects": ["Saturn: semi-sextile", "Moon: trine", "Sun: trine", "Jupiter: square","Uranus: square", "Mars: trine", "Venus: opposition", "Mercury: quincunx"]},
+{"date": 4, "month": 10, "year": 2023, "Aspects": ["Saturn: semi-sextile", "Sun: trine", "Jupiter: square", "Mars: trine", "Venus: opposition", "Pluto: semi-sextile", "Mercury: quincunx"]},
+{"date": 5, "month": 10, "year": 2023, "Aspects": ["Mercury: trine", "Moon: quincunx", "Sun: trine", "Jupiter: square", "Jupiter: square",  "Uranus: square", "Mars: trine", "Venus: opposition"]},
+{"date": 6, "month": 10, "year": 2023, "Aspects": ["Saturn: semi-sextile", "Mercury: trine", "Sun: trine", "Moon: quincunx", "Uranus: square", "Neptune: semi-sextile", "Mars: trine", "Pluto: semi-sextile", "Venus: opposition"]},
+{"date": 7, "month": 10, "year": 2023, "Aspects": ["Saturn: semi-sextile", "Mercury: trine", "Jupiter: square", "Sun: trine", "Uranus: square", "Neptune: semi-sextile", "Moon: quincunx", "Venus: opposition"]},
+{"date": 8, "month": 10, "year": 2023, "Aspects": ["Saturn: semi-sextile", "Mercury: trine", "Moon: opposition", "Jupiter: square", "Sun: trine", "Sun: trine", "Uranus: square", "Neptune: semi-sextile", "Mars: trine", "Venus: opposition"]},
+{"date": 9, "month": 10, "year": 2023, "Aspects": ["Venus: quincunx", "Saturn: semi-sextile", "Mercury: trine", "Jupiter: square", "Sun: trine", "Moon: opposition", "Uranus: square", "Neptune: semi-sextile", "Pluto: semi-sextile", "Mars: trine"]},
+{"date": 10, "month": 10, "year": 2023, "Aspects": ["Venus: quincunx", "Moon: quincunx", "Mercury: trine", "Jupiter: square", "Sun: trine", "Uranus: square", "Neptune: semi-sextile", "Pluto: semi-sextile", "Mars: trine"]},
+{"date": 11, "month": 10, "year": 2023, "Aspects": ["Saturn: semi-sextile", "Venus: quincunx", "Mercury: trine", "Jupiter: square", "Moon: quincunx", "Sun: trine", "Uranus: square", "Neptune: semi-sextile", "Pluto: semi-sextile", "Mars: trine"]},
+{"date": 0, "month": 10, "year": 2023, "Aspects": []}
 
 ],
 "pisces": [
@@ -69,7 +80,19 @@
 {"date": 27, "month": 9, "year": 2023, "Aspects": ["Saturn: conjunction", "Sun: quincunx", "Moon: conjunction", "Jupiter: sextile", "Mercury: opposition", "Mars: quincunx", "Venus: quincunx", "Uranus: sextile",  "Neptune: conjunction", "Pluto: sextile"]},
 {"date": 28, "month": 9, "year": 2023, "Aspects": ["Saturn: conjunction", "Sun: quincunx", "Jupiter: sextile", "Moon: conjunction", "Pluto: sextile"]},
 {"date": 29, "month": 9, "year": 2023, "Aspects": ["Saturn: conjunction", "Sun: quincunx", "Moon: semi-sextile", "Jupiter: sextile",  "Venus: quincunx", "Neptune: conjunction", "Pluto: sextile"]},
-{"date": 30, "month": 9, "year": 2023, "Aspects": ["Saturn: conjunction", "Sun: quincunx", "Jupiter: sextile", "Moon: semi-sextile", "Pluto: sextile"]}
+{"date": 30, "month": 9, "year": 2023, "Aspects": ["Saturn: conjunction", "Sun: quincunx", "Jupiter: sextile", "Moon: semi-sextile", "Pluto: sextile"]},
+{"date": 1, "month": 10, "year": 2023, "Aspects": ["Saturn: conjunction", "Sun: quincunx", "Moon: sextile", "Jupiter: sextile", "Mercury: opposition", "Neptune: conjunction", "Pluto: sextile"]},
+{"date": 2, "month": 10, "year": 2023, "Aspects": ["Saturn: conjunction", "Sun: quincunx", "Jupiter: sextile", "Mercury: opposition", "Pluto: sextile"]},
+{"date": 3, "month": 10, "year": 2023, "Aspects": ["Saturn: conjunction", "Moon: square", "Sun: quincunx", "Jupiter: sextile", "Uranus: sextile", "Mars: quincunx", "Venus: quincunx", "Mercury: opposition"]},
+{"date": 4, "month": 10, "year": 2023, "Aspects": ["Saturn: conjunction", "Sun: quincunx", "Jupiter: sextile", "Mars: quincunx", "Venus: quincunx", "Pluto: sextile", "Mercury: opposition"]},
+{"date": 5, "month": 10, "year": 2023, "Aspects": ["Mercury: quincunx", "Moon: trine", "Sun: quincunx", "Jupiter: sextile", "Jupiter: sextile", "Uranus: sextile", "Mars: quincunx", "Venus: quincunx"]},
+{"date": 6, "month": 10, "year": 2023, "Aspects": ["Saturn: conjunction", "Mercury: quincunx", "Sun: quincunx", "Moon: trine", "Uranus: sextile", "Neptune: conjunction", "Mars: quincunx", "Pluto: sextile", "Venus: quincunx"]},
+{"date": 7, "month": 10, "year": 2023, "Aspects": ["Saturn: conjunction", "Mercury: quincunx", "Jupiter: sextile", "Sun: quincunx", "Uranus: sextile", "Neptune: conjunction", "Moon: trine", "Venus: quincunx"]},
+{"date": 8, "month": 10, "year": 2023, "Aspects": ["Saturn: conjunction", "Mercury: quincunx", "Moon: quincunx", "Jupiter: sextile", "Sun: quincunx", "Sun: quincunx", "Uranus: sextile", "Neptune: conjunction", "Mars: quincunx", "Venus: quincunx"]},
+{"date": 9, "month": 10, "year": 2023, "Aspects": ["Venus: opposition", "Saturn: conjunction", "Mercury: quincunx", "Jupiter: sextile", "Sun: quincunx", "Moon: quincunx", "Uranus: sextile", "Neptune: conjunction", "Pluto: sextile", "Mars: quincunx"]},
+{"date": 10, "month": 10, "year": 2023, "Aspects": ["Venus: opposition", "Moon: opposition", "Mercury: quincunx", "Jupiter: sextile", "Sun: quincunx", "Uranus: sextile", "Neptune: conjunction", "Pluto: sextile", "Mars: quincunx"]},
+{"date": 11, "month": 10, "year": 2023, "Aspects": ["Saturn: conjunction", "Venus: opposition", "Mercury: quincunx", "Jupiter: sextile", "Moon: opposition", "Sun: quincunx", "Uranus: sextile", "Neptune: conjunction", "Pluto: sextile", "Mars: quincunx"]},
+{"date": 0, "month": 10, "year": 2023, "Aspects": []}
 
 
     ],
@@ -106,7 +129,19 @@
 {"date": 27, "month": 9, "year": 2023, "Aspects": ["Saturn: sextile", "Sun: square", "Moon: sextile", "Jupiter: trine", "Mercury: trine", "Mars: square", "Venus: quincunx", "Uranus: trine", "Neptune: sextile", "Pluto: conjunction"]},
 {"date": 28, "month": 9, "year": 2023, "Aspects": ["Saturn: sextile", "Sun: square", "Jupiter: trine", "Moon: sextile", "Pluto: conjunction"]},
 {"date": 29, "month": 9, "year": 2023, "Aspects": ["Saturn: sextile", "Sun: square", "Moon: square", "Jupiter: trine", "Neptune: sextile", "Pluto: conjunction"]},
-{"date": 30, "month": 9, "year": 2023, "Aspects": ["Saturn: sextile", "Sun: square", "Jupiter: trine", "Moon: square", "Pluto: conjunction"]}
+{"date": 30, "month": 9, "year": 2023, "Aspects": ["Saturn: sextile", "Sun: square", "Jupiter: trine", "Moon: square", "Pluto: conjunction"]},
+{"date": 1, "month": 10, "year": 2023, "Aspects": ["Saturn: sextile", "Sun: square", "Moon: trine", "Jupiter: trine", "Mercury: trine", "Neptune: sextile", "Pluto: conjunction"]},
+{"date": 2, "month": 10, "year": 2023, "Aspects": ["Saturn: sextile", "Sun: square", "Jupiter: trine", "Mercury: trine", "Pluto: conjunction"]},
+{"date": 3, "month": 10, "year": 2023, "Aspects": ["Saturn: sextile", "Moon: quincunx", "Sun: square", "Jupiter: trine", "Uranus: trine", "Mars: square", "Venus: quincunx", "Mercury: trine"]},
+{"date": 4, "month": 10, "year": 2023, "Aspects": ["Saturn: sextile", "Sun: square", "Jupiter: trine","Mars: square", "Venus: quincunx", "Pluto: conjunction", "Mercury: trine"]},
+{"date": 5, "month": 10, "year": 2023, "Aspects": ["Mercury: square", "Moon: opposition", "Sun: square", "Jupiter: trine", "Jupiter: trine", "Uranus: trine", "Mars: square", "Venus: quincunx"]},
+{"date": 6, "month": 10, "year": 2023, "Aspects": ["Saturn: sextile", "Mercury: square", "Sun: square", "Moon: opposition", "Uranus: trine", "Neptune: sextile", "Mars: square", "Pluto: conjunction", "Venus: quincunx"]},
+{"date": 7, "month": 10, "year": 2023, "Aspects": ["Saturn: sextile", "Mercury: square", "Jupiter: trine", "Sun: square", "Uranus: trine", "Neptune: sextile", "Moon: opposition", "Venus: quincunx"]},
+{"date": 8, "month": 10, "year": 2023, "Aspects": ["Saturn: sextile", "Mercury: square", "Moon: quincunx", "Jupiter: trine", "Sun: square", "Sun: square", "Uranus: trine", "Neptune: sextile", "Mars: square", "Venus: quincunx"]},
+{"date": 9, "month": 10, "year": 2023, "Aspects": ["Venus: trine", "Saturn: sextile", "Mercury: square", "Jupiter: trine", "Sun: square", "Moon: quincunx", "Uranus: trine", "Neptune: sextile", "Pluto: conjunction", "Mars: square"]},
+{"date": 10, "month": 10, "year": 2023, "Aspects": ["Venus: trine", "Moon: trine", "Mercury: square", "Jupiter: trine", "Sun: square", "Uranus: trine", "Neptune: sextile", "Pluto: conjunction", "Mars: square"]},
+{"date": 11, "month": 10, "year": 2023, "Aspects": ["Saturn: sextile", "Venus: trine", "Mercury: square", "Jupiter: trine", "Moon: trine", "Sun: square", "Uranus: trine", "Neptune: sextile", "Pluto: conjunction", "Mars: square"]},
+{"date": 0, "month": 10, "year": 2023, "Aspects": []}
 
 ],
 "sagittarius": [
@@ -142,7 +177,20 @@
 {"date": 27, "month": 9, "year": 2023, "Aspects": ["Saturn: square", "Sun: sextile", "Moon: square", "Jupiter: quincunx", "Mercury: square", "Mars: sextile", "Venus: trine", "Uranus: quincunx",  "Neptune: square", "Pluto: semi-sextile"]},
 {"date": 28, "month": 9, "year": 2023, "Aspects": ["Saturn: square", "Sun: sextile", "Jupiter: quincunx",   "Moon: square", "Pluto: semi-sextile"]},
 {"date": 29, "month": 9, "year": 2023, "Aspects": ["Saturn: square", "Sun: sextile", "Moon: trine", "Jupiter: quincunx", "Venus: trine", "Neptune: square", "Pluto: semi-sextile"]},
-{"date": 30, "month": 9, "year": 2023, "Aspects": ["Saturn: square", "Sun: sextile", "Jupiter: quincunx", "Moon: trine", "Pluto: semi-sextile"]}
+{"date": 30, "month": 9, "year": 2023, "Aspects": ["Saturn: square", "Sun: sextile", "Jupiter: quincunx", "Moon: trine", "Pluto: semi-sextile"]},
+{"date": 1, "month": 10, "year": 2023, "Aspects": ["Saturn: square", "Sun: sextile", "Moon: quincunx", "Jupiter: quincunx", "Mercury: square", "Neptune: square", "Pluto: semi-sextile"]},
+{"date": 2, "month": 10, "year": 2023, "Aspects": ["Saturn: square", "Sun: sextile", "Jupiter: quincunx", "Mercury: square", "Pluto: semi-sextile"]},
+{"date": 3, "month": 10, "year": 2023, "Aspects": ["Saturn: square", "Moon: opposition", "Sun: sextile", "Jupiter: quincunx","Uranus: quincunx", "Mars: sextile", "Venus: trine", "Mercury: square"]},
+{"date": 4, "month": 10, "year": 2023, "Aspects": ["Saturn: square", "Sun: sextile", "Jupiter: quincunx", "Mars: sextile", "Venus: trine", "Pluto: semi-sextile", "Mercury: square"]},
+{"date": 5, "month": 10, "year": 2023, "Aspects": ["Mercury: sextile", "Moon: quincunx", "Sun: sextile", "Jupiter: quincunx", "Jupiter: quincunx","Uranus: quincunx", "Mars: sextile", "Venus: trine"]},
+{"date": 6, "month": 10, "year": 2023, "Aspects": ["Saturn: square", "Mercury: sextile", "Sun: sextile", "Moon: quincunx","Uranus: quincunx", "Neptune: square", "Mars: sextile", "Pluto: semi-sextile", "Venus: trine"]},
+{"date": 7, "month": 10, "year": 2023, "Aspects": ["Saturn: square", "Mercury: sextile", "Jupiter: quincunx", "Sun: sextile","Uranus: quincunx", "Neptune: square", "Moon: quincunx", "Venus: trine"]},
+{"date": 8, "month": 10, "year": 2023, "Aspects": ["Saturn: square", "Mercury: sextile", "Moon: trine", "Jupiter: quincunx", "Sun: sextile", "Sun: sextile","Uranus: quincunx", "Neptune: square", "Mars: sextile", "Venus: trine"]},
+{"date": 9, "month": 10, "year": 2023, "Aspects": ["Venus: square", "Saturn: square", "Mercury: sextile", "Jupiter: quincunx", "Sun: sextile", "Moon: trine", "Uranus: quincunx", "Neptune: square", "Pluto: semi-sextile", "Mars: sextile"]},
+{"date": 10, "month": 10, "year": 2023, "Aspects": ["Venus: square", "Moon: square", "Mercury: sextile", "Jupiter: quincunx", "Sun: sextile", "Uranus: quincunx", "Neptune: square", "Pluto: semi-sextile", "Mars: sextile"]},
+{"date": 11, "month": 10, "year": 2023, "Aspects": ["Saturn: square", "Venus: square", "Mercury: sextile", "Jupiter: quincunx", "Moon: square","Sun: sextile", "Uranus: quincunx", "Neptune: square", "Pluto: semi-sextile", "Mars: sextile"]},
+{"date": 0, "month": 10, "year": 2023, "Aspects": []}
+
 
 ],
 "scorpio": [
@@ -169,7 +217,7 @@
 {"date": 18, "month": 9, "year": 2023, "Aspects": ["Saturn: trine", "Mercury: sextile", "Mars: semi-sextile", "Venus: square", "Moon: conjunction", "Uranus: opposition", "Sun: sextile", "Pluto: sextile"]},
 {"date": 19, "month": 9, "year": 2023, "Aspects": ["Moon: semi-sextile", "Mercury: sextile", "Mars: semi-sextile", "Venus: square", "Uranus: opposition", "Neptune: trine", "Sun: sextile"]},
 {"date": 20, "month": 9, "year": 2023, "Aspects": ["Moon: semi-sextile", "Mercury: sextile", "Mars: semi-sextile", "Venus: square", "Uranus: opposition", "Neptune: trine", "Sun: sextile"]},
-{"date": 21, "month": 9, "year": 2023, "Aspects": ["Saturn: trine", "Mercury: sextile", "Moon: semi-sextile", "Mars: semi-sextile", "Venus: square", "Uranus: opposition", "Neptune: trine", "Pluto: sextile", "Sun: sextile"]},
+{"date": 21, "month": 9, "year": 2023, "Aspects": ["Saturn: trine", "Mercury: sextile", "Moon: semi-sextile", "Mars: semi-sextile", "Venus: square",  "Uranus: opposition", "Neptune: trine", "Pluto: sextile", "Sun: sextile"]},
 {"date": 22, "month": 9, "year": 2023, "Aspects": ["Saturn: trine", "Mercury: sextile", "Jupiter: opposition", "Mars: semi-sextile", "Venus: square", "Uranus: opposition", "Neptune: trine", "Pluto: sextile"]},
 {"date": 23, "month": 9, "year": 2023, "Aspects": ["Sun: semi-sextile", "Saturn: trine", "Mercury: sextile", "Moon: sextile", "Jupiter: opposition", "Mars: semi-sextile", "Venus: square", "Uranus: opposition", "Neptune: trine", "Pluto: sextile"]},
 {"date": 24, "month": 9, "year": 2023, "Aspects": ["Sun: semi-sextile", "Mercury: sextile", "Jupiter: opposition", "Mars: semi-sextile", "Venus: square", "Uranus: opposition", "Neptune: trine", "Moon: sextile"]},
@@ -178,7 +226,19 @@
 {"date": 27, "month": 9, "year": 2023, "Aspects": ["Saturn: trine", "Sun: semi-sextile", "Moon: trine", "Jupiter: opposition", "Mercury: sextile", "Mars: semi-sextile", "Venus: square", "Uranus: opposition", "Neptune: trine", "Pluto: sextile"]},
 {"date": 28, "month": 9, "year": 2023, "Aspects": ["Saturn: trine", "Sun: semi-sextile", "Jupiter: opposition", "Moon: trine", "Pluto: sextile"]},
 {"date": 29, "month": 9, "year": 2023, "Aspects": ["Saturn: trine", "Sun: semi-sextile", "Moon: quincunx", "Jupiter: opposition",  "Venus: square", "Neptune: trine", "Pluto: sextile"]},
-{"date": 30, "month": 9, "year": 2023, "Aspects": ["Saturn: trine", "Sun: semi-sextile", "Jupiter: opposition", "Neptune: trine", "Moon: quincunx", "Pluto: sextile"]}
+{"date": 30, "month": 9, "year": 2023, "Aspects": ["Saturn: trine", "Sun: semi-sextile", "Jupiter: opposition", "Neptune: trine", "Moon: quincunx", "Pluto: sextile"]},
+{"date": 1, "month": 10, "year": 2023, "Aspects": ["Saturn: trine", "Sun: semi-sextile", "Moon: opposition", "Jupiter: opposition", "Mercury: sextile", "Neptune: trine", "Pluto: sextile"]},
+{"date": 2, "month": 10, "year": 2023, "Aspects": ["Saturn: trine", "Sun: semi-sextile", "Jupiter: opposition", "Neptune: trine", "Mercury: sextile", "Pluto: sextile"]},
+{"date": 3, "month": 10, "year": 2023, "Aspects": ["Saturn: trine", "Moon: quincunx", "Sun: semi-sextile", "Jupiter: opposition", "Uranus: opposition", "Mars: semi-sextile", "Venus: square", "Mercury: sextile"]},
+{"date": 4, "month": 10, "year": 2023, "Aspects": ["Saturn: trine", "Sun: semi-sextile", "Jupiter: opposition", "Mars: semi-sextile", "Venus: square", "Pluto: sextile", "Mercury: sextile"]},
+{"date": 5, "month": 10, "year": 2023, "Aspects": ["Mercury: semi-sextile", "Moon: trine", "Sun: semi-sextile", "Jupiter: opposition", "Jupiter: opposition", "Uranus: opposition", "Mars: semi-sextile", "Venus: square"]},
+{"date": 6, "month": 10, "year": 2023, "Aspects": ["Saturn: trine", "Mercury: semi-sextile", "Sun: semi-sextile", "Moon: trine", "Uranus: opposition", "Neptune: trine", "Mars: semi-sextile", "Pluto: sextile", "Venus: square"]},
+{"date": 7, "month": 10, "year": 2023, "Aspects": ["Saturn: trine", "Mercury: semi-sextile", "Jupiter: opposition", "Sun: semi-sextile", "Sun: semi-sextile", "Uranus: opposition", "Neptune: trine", "Moon: trine", "Venus: square"]},
+{"date": 8, "month": 10, "year": 2023, "Aspects": ["Saturn: trine", "Mercury: semi-sextile", "Moon: square", "Jupiter: opposition", "Sun: semi-sextile", "Sun: semi-sextile", "Uranus: opposition", "Neptune: trine", "Mars: semi-sextile", "Venus: square"]},
+{"date": 9, "month": 10, "year": 2023, "Aspects": ["Venus: sextile", "Saturn: trine", "Mercury: semi-sextile", "Jupiter: opposition", "Sun: semi-sextile", "Moon: square", "Uranus: opposition", "Neptune: trine", "Pluto: sextile", "Mars: semi-sextile"]},
+{"date": 10, "month": 10, "year": 2023, "Aspects": ["Venus: sextile", "Moon: sextile", "Mercury: semi-sextile", "Jupiter: opposition", "Sun: semi-sextile", "Uranus: opposition", "Neptune: trine", "Pluto: sextile", "Mars: semi-sextile"]},
+{"date": 11, "month": 10, "year": 2023, "Aspects": ["Saturn: trine", "Venus: sextile", "Mercury: semi-sextile", "Jupiter: opposition", "Moon: sextile", "Sun: semi-sextile", "Uranus: opposition", "Neptune: trine", "Pluto: sextile", "Mars: semi-sextile"]},
+{"date": 0, "month": 10, "year": 2023, "Aspects": []}
 
 ],
 "libra": [
@@ -205,7 +265,7 @@
 {"date": 18, "month": 9, "year": 2023, "Aspects": ["Saturn: quincunx", "Mercury: semi-sextile", "Mars: conjunction", "Venus: sextile", "Moon: semi-sextile", "Uranus: quincunx", "Sun: semi-sextile", "Pluto: square"]},
 {"date": 19, "month": 9, "year": 2023, "Aspects": ["Moon: sextile", "Mercury: semi-sextile", "Mars: conjunction", "Venus: sextile", "Uranus: quincunx", "Neptune: quincunx", "Sun: semi-sextile"]},
 {"date": 20, "month": 9, "year": 2023, "Aspects": ["Moon: sextile", "Mercury: semi-sextile", "Mars: conjunction", "Venus: sextile",  "Uranus: quincunx", "Neptune: quincunx", "Sun: semi-sextile"]},
-{"date": 21, "month": 9, "year": 2023, "Aspects": ["Saturn: quincunx", "Mercury: semi-sextile", "Moon: sextile", "Mars: conjunction", "Venus: sextile", "Uranus: quincunx", "Neptune: quincunx", "Pluto: square", "Sun: semi-sextile"]},
+{"date": 21, "month": 9, "year": 2023, "Aspects": ["Saturn: quincunx", "Mercury: semi-sextile", "Moon: sextile", "Mars: conjunction", "Venus: sextile","Uranus: quincunx", "Neptune: quincunx", "Pluto: square", "Sun: semi-sextile"]},
 {"date": 22, "month": 9, "year": 2023, "Aspects": ["Saturn: quincunx", "Mercury: semi-sextile", "Jupiter: quincunx", "Mars: conjunction", "Venus: sextile", "Uranus: quincunx", "Neptune: quincunx", "Pluto: square"]},
 {"date": 23, "month": 9, "year": 2023, "Aspects": ["Sun: conjunction", "Saturn: quincunx", "Mercury: semi-sextile", "Moon: square", "Jupiter: quincunx", "Mars: conjunction", "Venus: sextile", "Uranus: quincunx", "Neptune: quincunx", "Pluto: square"]},
 {"date": 24, "month": 9, "year": 2023, "Aspects": ["Sun: conjunction", "Mercury: semi-sextile", "Jupiter: quincunx", "Mars: conjunction", "Venus: sextile", "Uranus: quincunx", "Neptune: quincunx", "Moon: square"]},
@@ -214,7 +274,20 @@
 {"date": 27, "month": 9, "year": 2023, "Aspects": ["Saturn: quincunx", "Sun: conjunction", "Moon: quincunx", "Jupiter: quincunx", "Mercury: semi-sextile", "Mars: conjunction", "Venus: sextile", "Uranus: quincunx", "Neptune: quincunx", "Pluto: square"]},
 {"date": 28, "month": 9, "year": 2023, "Aspects": ["Saturn: quincunx", "Sun: conjunction", "Jupiter: quincunx", "Moon: quincunx", "Pluto: square"]},
 {"date": 29, "month": 9, "year": 2023, "Aspects": ["Saturn: quincunx", "Sun: conjunction", "Moon: opposition", "Jupiter: quincunx",   "Venus: sextile", "Neptune: quincunx", "Pluto: square"]},
-{"date": 30, "month": 9, "year": 2023, "Aspects": ["Saturn: quincunx", "Sun: conjunction", "Jupiter: quincunx",  "Moon: opposition", "Pluto: square"]}
+{"date": 30, "month": 9, "year": 2023, "Aspects": ["Saturn: quincunx", "Sun: conjunction", "Jupiter: quincunx",  "Moon: opposition", "Pluto: square"]},
+{"date": 1, "month": 10, "year": 2023, "Aspects": ["Saturn: quincunx", "Sun: conjunction", "Moon: quincunx", "Jupiter: quincunx", "Mercury: semi-sextile", "Neptune: quincunx", "Pluto: square"]},
+{"date": 2, "month": 10, "year": 2023, "Aspects": ["Saturn: quincunx", "Sun: conjunction", "Jupiter: quincunx", "Mercury: semi-sextile", "Pluto: square"]},
+{"date": 3, "month": 10, "year": 2023, "Aspects": ["Saturn: quincunx", "Moon: trine", "Sun: conjunction", "Jupiter: quincunx","Uranus: quincunx", "Mars: conjunction", "Venus: sextile", "Mercury: semi-sextile"]},
+{"date": 4, "month": 10, "year": 2023, "Aspects": ["Saturn: quincunx", "Sun: conjunction", "Jupiter: quincunx", "Mars: conjunction", "Venus: sextile", "Pluto: square", "Mercury: semi-sextile"]},
+{"date": 5, "month": 10, "year": 2023, "Aspects": ["Mercury: conjunction", "Moon: square", "Sun: conjunction", "Jupiter: quincunx", "Jupiter: quincunx","Uranus: quincunx", "Mars: conjunction", "Venus: sextile"]},
+{"date": 6, "month": 10, "year": 2023, "Aspects": ["Saturn: quincunx", "Mercury: conjunction", "Sun: conjunction", "Moon: square", "Uranus: quincunx", "Neptune: quincunx", "Mars: conjunction", "Pluto: square", "Venus: sextile"]},
+{"date": 7, "month": 10, "year": 2023, "Aspects": ["Saturn: quincunx", "Mercury: conjunction", "Jupiter: quincunx", "Sun: conjunction", "Sun: conjunction","Uranus: quincunx", "Neptune: quincunx", "Moon: square", "Venus: sextile"]},
+{"date": 8, "month": 10, "year": 2023, "Aspects": ["Saturn: quincunx", "Mercury: conjunction", "Moon: sextile", "Jupiter: quincunx", "Sun: conjunction", "Sun: conjunction","Uranus: quincunx", "Neptune: quincunx", "Mars: conjunction", "Venus: sextile"]},
+{"date": 9, "month": 10, "year": 2023, "Aspects": ["Venus: semi-sextile", "Saturn: quincunx", "Mercury: conjunction", "Jupiter: quincunx", "Sun: conjunction","Moon: sextile", "Uranus: quincunx", "Neptune: quincunx", "Pluto: square", "Mars: conjunction"]},
+{"date": 10, "month": 10, "year": 2023, "Aspects": ["Venus: semi-sextile", "Moon: semi-sextile", "Mercury: conjunction", "Jupiter: quincunx", "Sun: conjunction", "Uranus: quincunx", "Neptune: quincunx", "Pluto: square", "Mars: conjunction"]},
+{"date": 11, "month": 10, "year": 2023, "Aspects": ["Saturn: quincunx", "Venus: semi-sextile", "Mercury: conjunction", "Jupiter: quincunx", "Moon: semi-sextile", "Sun: conjunction", "Uranus: quincunx", "Neptune: quincunx", "Pluto: square", "Mars: conjunction"]},
+{"date": 0, "month": 10, "year": 2023, "Aspects": []}
+
 
 ],
 "virgo": [
@@ -241,7 +314,7 @@
 {"date": 18, "month": 9, "year": 2023, "Aspects": ["Saturn: opposition", "Mercury: conjunction", "Mars: semi-sextile", "Venus: semi-sextile", "Moon: sextile", "Uranus: trine", "Sun: conjunction", "Pluto: trine"]},
 {"date": 19, "month": 9, "year": 2023, "Aspects": ["Moon: square", "Mercury: conjunction", "Mars: semi-sextile", "Venus: semi-sextile", "Uranus: trine", "Neptune: opposition", "Sun: conjunction"]},
 {"date": 20, "month": 9, "year": 2023, "Aspects": ["Moon: square", "Mercury: conjunction", "Mars: semi-sextile", "Venus: semi-sextile", "Uranus: trine", "Neptune: opposition", "Sun: conjunction"]},
-{"date": 21, "month": 9, "year": 2023, "Aspects": ["Saturn: opposition", "Mercury: conjunction", "Moon: square", "Mars: semi-sextile", "Venus: semi-sextile", "Uranus: trine", "Neptune: opposition", "Pluto: trine", "Sun: conjunction"]},
+{"date": 21, "month": 9, "year": 2023, "Aspects": ["Saturn: opposition", "Mercury: conjunction", "Moon: square", "Mars: semi-sextile", "Venus: semi-sextile","Uranus: trine", "Neptune: opposition", "Pluto: trine", "Sun: conjunction"]},
 {"date": 22, "month": 9, "year": 2023, "Aspects": ["Saturn: opposition", "Mercury: conjunction", "Jupiter: trine", "Mars: semi-sextile", "Venus: semi-sextile", "Uranus: trine", "Neptune: opposition", "Pluto: trine"]},
 {"date": 23, "month": 9, "year": 2023, "Aspects": ["Sun: semi-sextile", "Saturn: opposition", "Mercury: conjunction", "Moon: trine", "Jupiter: trine", "Mars: semi-sextile", "Venus: semi-sextile", "Uranus: trine", "Neptune: opposition", "Pluto: trine"]},
 {"date": 24, "month": 9, "year": 2023, "Aspects": ["Sun: semi-sextile", "Mercury: conjunction", "Jupiter: trine", "Mars: semi-sextile", "Venus: semi-sextile", "Uranus: trine", "Neptune: opposition", "Moon: trine"]},
@@ -250,7 +323,20 @@
 {"date": 27, "month": 9, "year": 2023, "Aspects": ["Saturn: opposition", "Sun: semi-sextile", "Moon: opposition", "Jupiter: trine", "Mercury: conjunction", "Mars: semi-sextile", "Venus: semi-sextile", "Uranus: trine",  "Neptune: opposition", "Pluto: trine"]},
 {"date": 28, "month": 9, "year": 2023, "Aspects": ["Saturn: opposition", "Sun: semi-sextile", "Jupiter: trine", "Moon: opposition", "Pluto: trine"]},
 {"date": 29, "month": 9, "year": 2023, "Aspects": ["Saturn: opposition", "Sun: semi-sextile", "Moon: quincunx", "Jupiter: trine", "Venus: semi-sextile", "Neptune: opposition", "Pluto: trine"]},
-{"date": 30, "month": 9, "year": 2023, "Aspects": ["Saturn: opposition", "Sun: semi-sextile", "Jupiter: trine", "Moon: quincunx", "Pluto: trine"]}
+{"date": 30, "month": 9, "year": 2023, "Aspects": ["Saturn: opposition", "Sun: semi-sextile", "Jupiter: trine", "Moon: quincunx", "Pluto: trine"]},
+{"date": 1, "month": 10, "year": 2023, "Aspects": ["Saturn: opposition", "Sun: semi-sextile", "Moon: trine", "Jupiter: trine", "Mercury: conjunction", "Neptune: opposition", "Pluto: trine"]},
+{"date": 2, "month": 10, "year": 2023, "Aspects": ["Saturn: opposition", "Sun: semi-sextile", "Jupiter: trine", "Mercury: conjunction", "Pluto: trine"]},
+{"date": 3, "month": 10, "year": 2023, "Aspects": ["Saturn: opposition", "Moon: square", "Sun: semi-sextile", "Jupiter: trine", "Uranus: trine", "Mars: semi-sextile", "Venus: semi-sextile", "Mercury: conjunction"]},
+{"date": 4, "month": 10, "year": 2023, "Aspects": ["Saturn: opposition", "Sun: semi-sextile", "Jupiter: trine",  "Mars: semi-sextile", "Venus: semi-sextile", "Pluto: trine", "Mercury: conjunction"]},
+{"date": 5, "month": 10, "year": 2023, "Aspects": ["Mercury: semi-sextile", "Moon: sextile", "Sun: semi-sextile", "Jupiter: trine", "Jupiter: trine", "Uranus: trine", "Mars: semi-sextile", "Venus: semi-sextile"]},
+{"date": 6, "month": 10, "year": 2023, "Aspects": ["Saturn: opposition", "Mercury: semi-sextile", "Sun: semi-sextile", "Moon: sextile", "Uranus: trine", "Neptune: opposition", "Mars: semi-sextile", "Pluto: trine", "Venus: semi-sextile"]},
+{"date": 7, "month": 10, "year": 2023, "Aspects": ["Saturn: opposition", "Mercury: semi-sextile", "Jupiter: trine", "Sun: semi-sextile", "Uranus: trine", "Neptune: opposition", "Moon: sextile", "Venus: semi-sextile"]},
+{"date": 8, "month": 10, "year": 2023, "Aspects": ["Saturn: opposition", "Mercury: semi-sextile", "Moon: semi-sextile", "Jupiter: trine", "Sun: semi-sextile", "Jupiter: trine", "Sun: semi-sextile", "Uranus: trine", "Neptune: opposition", "Mars: semi-sextile", "Venus: semi-sextile"]},
+{"date": 9, "month": 10, "year": 2023, "Aspects": ["Venus: conjunction", "Saturn: opposition", "Mercury: semi-sextile", "Jupiter: trine", "Sun: semi-sextile", "Moon: semi-sextile", "Uranus: trine", "Neptune: opposition", "Pluto: trine", "Mars: semi-sextile"]},
+{"date": 10, "month": 10, "year": 2023, "Aspects": ["Venus: conjunction", "Moon: conjunction", "Mercury: semi-sextile", "Jupiter: trine", "Sun: semi-sextile", "Uranus: trine", "Neptune: opposition", "Pluto: trine", "Mars: semi-sextile"]},
+{"date": 11, "month": 10, "year": 2023, "Aspects": ["Saturn: opposition", "Venus: conjunction", "Mercury: semi-sextile", "Jupiter: trine", "Moon: conjunction", "Sun: semi-sextile", "Uranus: trine", "Neptune: opposition", "Pluto: trine", "Mars: semi-sextile"]},
+{"date": 0, "month": 10, "year": 2023, "Aspects": []}
+
 
 ],
 "leo": [
@@ -277,7 +363,7 @@
 {"date": 18, "month": 9, "year": 2023, "Aspects": ["Saturn: quincunx", "Mercury: semi-sextile", "Mars: sextile", "Venus: conjunction", "Moon: square", "Uranus: square", "Sun: semi-sextile", "Pluto: quincunx"]},
 {"date": 19, "month": 9, "year": 2023, "Aspects": ["Moon: trine", "Mercury: semi-sextile", "Mars: sextile", "Venus: conjunction", "Uranus: square", "Neptune: quincunx", "Sun: semi-sextile"]},
 {"date": 20, "month": 9, "year": 2023, "Aspects": ["Moon: trine", "Mercury: semi-sextile", "Mars: sextile", "Venus: conjunction", "Uranus: square", "Neptune: quincunx", "Sun: semi-sextile"]},
-{"date": 21, "month": 9, "year": 2023, "Aspects": ["Saturn: quincunx", "Mercury: semi-sextile", "Moon: trine", "Mars: sextile", "Venus: conjunction", "Uranus: square", "Neptune: quincunx", "Pluto: quincunx", "Sun: semi-sextile"]},
+{"date": 21, "month": 9, "year": 2023, "Aspects": ["Saturn: quincunx", "Mercury: semi-sextile", "Moon: trine", "Mars: sextile", "Venus: conjunction","Uranus: square", "Neptune: quincunx", "Pluto: quincunx", "Sun: semi-sextile"]},
 {"date": 22, "month": 9, "year": 2023, "Aspects": ["Saturn: quincunx", "Mercury: semi-sextile", "Jupiter: square", "Mars: sextile", "Venus: conjunction", "Uranus: square", "Neptune: quincunx", "Pluto: quincunx"]},
 {"date": 23, "month": 9, "year": 2023, "Aspects": ["Sun: sextile", "Saturn: quincunx", "Mercury: semi-sextile", "Moon: quincunx", "Jupiter: square", "Mars: sextile", "Venus: conjunction", "Uranus: square", "Neptune: quincunx", "Pluto: quincunx"]},
 {"date": 24, "month": 9, "year": 2023, "Aspects": ["Sun: sextile", "Mercury: semi-sextile", "Jupiter: square", "Mars: sextile", "Venus: conjunction", "Uranus: square", "Neptune: quincunx", "Moon: quincunx"]},
@@ -286,7 +372,20 @@
 {"date": 27, "month": 9, "year": 2023, "Aspects": ["Saturn: quincunx", "Sun: sextile", "Moon: quincunx", "Jupiter: square", "Mercury: semi-sextile", "Mars: sextile", "Venus: conjunction", "Uranus: square", "Neptune: quincunx", "Pluto: quincunx"]},
 {"date": 28, "month": 9, "year": 2023, "Aspects": ["Saturn: quincunx", "Sun: sextile", "Jupiter: square",  "Moon: quincunx", "Pluto: quincunx"]},
 {"date": 29, "month": 9, "year": 2023, "Aspects": ["Saturn: quincunx", "Sun: sextile", "Moon: trine", "Jupiter: square",  "Neptune: quincunx", "Pluto: quincunx"]},
-{"date": 30, "month": 9, "year": 2023, "Aspects": ["Saturn: quincunx", "Sun: sextile", "Jupiter: square", "Moon: trine", "Pluto: quincunx"]}
+{"date": 30, "month": 9, "year": 2023, "Aspects": ["Saturn: quincunx", "Sun: sextile", "Jupiter: square", "Moon: trine", "Pluto: quincunx"]},
+{"date": 1, "month": 10, "year": 2023, "Aspects": ["Saturn: quincunx", "Sun: sextile", "Moon: square", "Jupiter: square","Neptune: quincunx", "Pluto: quincunx"]},
+{"date": 2, "month": 10, "year": 2023, "Aspects": ["Saturn: quincunx", "Sun: sextile", "Jupiter: square", "Mercury: semi-sextile", "Pluto: quincunx"]},
+{"date": 3, "month": 10, "year": 2023, "Aspects": ["Saturn: quincunx", "Moon: sextile", "Sun: sextile", "Jupiter: square", "Uranus: square", "Mars: sextile", "Venus: conjunction", "Mercury: semi-sextile"]},
+{"date": 4, "month": 10, "year": 2023, "Aspects": ["Saturn: quincunx", "Sun: sextile", "Jupiter: square", "Mars: sextile", "Venus: conjunction", "Pluto: quincunx", "Mercury: semi-sextile"]},
+{"date": 5, "month": 10, "year": 2023, "Aspects": ["Mercury: sextile", "Moon: semi-sextile", "Sun: sextile", "Jupiter: square", "Sun: sextile", "Jupiter: square","Uranus: square", "Mars: sextile", "Venus: conjunction"]},
+{"date": 6, "month": 10, "year": 2023, "Aspects": ["Saturn: quincunx", "Mercury: sextile", "Sun: sextile", "Moon: semi-sextile", "Uranus: square", "Neptune: quincunx", "Mars: sextile", "Pluto: quincunx", "Venus: conjunction"]},
+{"date": 7, "month": 10, "year": 2023, "Aspects": ["Saturn: quincunx", "Mercury: sextile", "Jupiter: square", "Sun: sextile","Uranus: square", "Neptune: quincunx", "Moon: semi-sextile", "Venus: conjunction"]},
+{"date": 8, "month": 10, "year": 2023, "Aspects": ["Saturn: quincunx", "Mercury: sextile", "Moon: conjunction", "Jupiter: square", "Sun: sextile", "Jupiter: square", "Sun: sextile","Uranus: square", "Neptune: quincunx", "Mars: sextile", "Venus: conjunction"]},
+{"date": 9, "month": 10, "year": 2023, "Aspects": ["Venus: semi-sextile", "Saturn: quincunx", "Mercury: sextile", "Jupiter: square", "Sun: sextile", "Moon: conjunction", "Uranus: square", "Neptune: quincunx", "Pluto: quincunx", "Mars: sextile"]},
+{"date": 10, "month": 10, "year": 2023, "Aspects": ["Venus: semi-sextile", "Moon: semi-sextile", "Mercury: sextile", "Jupiter: square", "Sun: sextile", "Uranus: square", "Neptune: quincunx", "Pluto: quincunx", "Mars: sextile"]},
+{"date": 11, "month": 10, "year": 2023, "Aspects": ["Saturn: quincunx", "Venus: semi-sextile", "Mercury: sextile", "Jupiter: square", "Moon: semi-sextile", "Sun: sextile", "Uranus: square", "Neptune: quincunx", "Pluto: quincunx", "Mars: sextile"]},
+{"date": 0, "month": 10, "year": 2023, "Aspects": []}
+
 
 ],
 "cancer": [
@@ -322,7 +421,19 @@
 {"date": 27, "month": 9, "year": 2023, "Aspects": ["Saturn: trine", "Sun: square", "Moon: trine", "Jupiter: sextile", "Mercury: sextile", "Mars: square", "Venus: semi-sextile", "Uranus: sextile", "Neptune: trine", "Pluto: opposition"]},
 {"date": 28, "month": 9, "year": 2023, "Aspects": ["Saturn: trine", "Sun: square", "Jupiter: sextile", "Moon: trine", "Pluto: opposition"]},
 {"date": 29, "month": 9, "year": 2023, "Aspects": ["Saturn: trine", "Sun: square", "Moon: square", "Jupiter: sextile",  "Neptune: trine", "Pluto: opposition"]},
-{"date": 30, "month": 9, "year": 2023, "Aspects": ["Saturn: trine", "Sun: square", "Jupiter: sextile",  "Moon: square", "Pluto: opposition"]}
+{"date": 30, "month": 9, "year": 2023, "Aspects": ["Saturn: trine", "Sun: square", "Jupiter: sextile",  "Moon: square", "Pluto: opposition"]},
+{"date": 1, "month": 10, "year": 2023, "Aspects": ["Saturn: trine", "Sun: square", "Moon: sextile", "Jupiter: sextile", "Neptune: trine", "Pluto: opposition"]},
+{"date": 2, "month": 10, "year": 2023, "Aspects": ["Saturn: trine", "Sun: square", "Jupiter: sextile", "Mercury: sextile", "Pluto: opposition"]},
+{"date": 3, "month": 10, "year": 2023, "Aspects": ["Saturn: trine", "Moon: semi-sextile", "Sun: square", "Jupiter: sextile", "Uranus: sextile", "Mars: square", "Venus: semi-sextile", "Mercury: sextile"]},
+{"date": 4, "month": 10, "year": 2023, "Aspects": ["Saturn: trine", "Sun: square", "Jupiter: sextile",  "Mars: square", "Venus: semi-sextile", "Pluto: opposition", "Mercury: sextile"]},
+{"date": 5, "month": 10, "year": 2023, "Aspects": ["Mercury: square", "Moon: conjunction", "Sun: square", "Jupiter: sextile", "Jupiter: sextile", "Uranus: sextile", "Mars: square", "Venus: semi-sextile"]},
+{"date": 6, "month": 10, "year": 2023, "Aspects": ["Saturn: trine", "Mercury: square", "Sun: square", "Moon: conjunction", "Uranus: sextile", "Neptune: trine", "Mars: square", "Pluto: opposition", "Venus: semi-sextile"]},
+{"date": 7, "month": 10, "year": 2023, "Aspects": ["Saturn: trine", "Mercury: square", "Jupiter: sextile", "Sun: square",  "Uranus: sextile", "Neptune: trine", "Moon: conjunction", "Venus: semi-sextile"]},
+{"date": 8, "month": 10, "year": 2023, "Aspects": ["Saturn: trine", "Mercury: square", "Moon: semi-sextile", "Jupiter: sextile", "Sun: square", "Sun: square", "Uranus: sextile", "Neptune: trine", "Mars: square", "Venus: semi-sextile"]},
+{"date": 9, "month": 10, "year": 2023, "Aspects": ["Venus: sextile", "Saturn: trine", "Mercury: square", "Jupiter: sextile", "Sun: square", "Moon: semi-sextile", "Uranus: sextile", "Neptune: trine", "Pluto: opposition", "Mars: square"]},
+{"date": 10, "month": 10, "year": 2023, "Aspects": ["Venus: sextile", "Moon: sextile", "Mercury: square", "Jupiter: sextile", "Sun: square", "Uranus: sextile", "Neptune: trine", "Pluto: opposition", "Mars: square"]},
+{"date": 11, "month": 10, "year": 2023, "Aspects": ["Saturn: trine", "Venus: sextile", "Mercury: square", "Jupiter: sextile", "Moon: sextile", "Sun: square", "Uranus: sextile", "Neptune: trine", "Pluto: opposition", "Mars: square"]},
+{"date": 0, "month": 10, "year": 2023, "Aspects": []}
 
 
 ],
@@ -359,7 +470,20 @@
 {"date": 27, "month": 9, "year": 2023, "Aspects": ["Saturn: square", "Sun: trine", "Moon: square", "Jupiter: semi-sextile", "Mercury: square", "Mars: trine", "Venus: sextile", "Uranus: semi-sextile",  "Neptune: square", "Pluto: quincunx"]},
 {"date": 28, "month": 9, "year": 2023, "Aspects": ["Saturn: square", "Sun: trine", "Jupiter: semi-sextile", "Moon: square", "Pluto: quincunx"]},
 {"date": 29, "month": 9, "year": 2023, "Aspects": ["Saturn: square", "Sun: trine", "Moon: sextile", "Jupiter: semi-sextile", "Venus: sextile", "Neptune: square", "Pluto: quincunx"]},
-{"date": 30, "month": 9, "year": 2023, "Aspects": ["Saturn: square", "Sun: trine", "Jupiter: semi-sextile", "Moon: sextile", "Pluto: quincunx"]}
+{"date": 30, "month": 9, "year": 2023, "Aspects": ["Saturn: square", "Sun: trine", "Jupiter: semi-sextile", "Moon: sextile", "Pluto: quincunx"]},
+{"date": 1, "month": 10, "year": 2023, "Aspects": ["Saturn: square", "Sun: trine", "Moon: semi-sextile", "Jupiter: semi-sextile", "Mercury: square", "Neptune: square", "Pluto: quincunx"]},
+{"date": 2, "month": 10, "year": 2023, "Aspects": ["Saturn: square", "Sun: trine", "Jupiter: semi-sextile", "Mercury: square", "Pluto: quincunx"]},
+{"date": 3, "month": 10, "year": 2023, "Aspects": ["Saturn: square", "Moon: conjunction", "Sun: trine", "Jupiter: semi-sextile", "Uranus: semi-sextile", "Mars: trine", "Venus: sextile", "Mercury: square"]},
+{"date": 4, "month": 10, "year": 2023, "Aspects": ["Saturn: square", "Sun: trine", "Jupiter: semi-sextile", "Mars: trine", "Venus: sextile", "Pluto: quincunx", "Mercury: square"]},
+{"date": 5, "month": 10, "year": 2023, "Aspects": ["Mercury: trine", "Moon: semi-sextile", "Sun: trine", "Jupiter: semi-sextile", "Jupiter: semi-sextile", "Uranus: semi-sextile", "Mars: trine", "Venus: sextile"]},
+{"date": 6, "month": 10, "year": 2023, "Aspects": ["Saturn: square", "Mercury: trine", "Sun: trine", "Moon: semi-sextile", "Uranus: semi-sextile", "Neptune: square", "Mars: trine", "Pluto: quincunx", "Venus: sextile"]},
+{"date": 7, "month": 10, "year": 2023, "Aspects": ["Saturn: square", "Mercury: trine", "Jupiter: semi-sextile", "Sun: trine",  "Uranus: semi-sextile", "Neptune: square", "Moon: semi-sextile", "Venus: sextile"]},
+{"date": 8, "month": 10, "year": 2023, "Aspects": ["Saturn: square", "Mercury: trine", "Moon: sextile", "Jupiter: semi-sextile", "Sun: trine", "Sun: trine", "Uranus: semi-sextile", "Neptune: square", "Mars: trine", "Venus: sextile"]},
+{"date": 9, "month": 10, "year": 2023, "Aspects": ["Venus: square", "Saturn: square", "Mercury: trine", "Jupiter: semi-sextile", "Sun: trine","Moon: sextile", "Uranus: semi-sextile", "Neptune: square", "Pluto: quincunx", "Mars: trine"]},
+{"date": 10, "month": 10, "year": 2023, "Aspects": ["Venus: square", "Moon: square", "Mercury: trine", "Jupiter: semi-sextile", "Sun: trine", "Uranus: semi-sextile", "Neptune: square", "Pluto: quincunx", "Mars: trine"]},
+{"date": 11, "month": 10, "year": 2023, "Aspects": ["Saturn: square", "Venus: square", "Mercury: trine", "Jupiter: semi-sextile", "Moon: square", "Sun: trine", "Uranus: semi-sextile", "Neptune: square", "Pluto: quincunx", "Mars: trine"]},
+{"date": 0, "month": 10, "year": 2023, "Aspects": []}
+
 
 ],
 "taurus": [
@@ -395,7 +519,20 @@
      {"date": 27, "month": 9, "year": 2023, "Aspects": ["Saturn: sextile", "Sun: quincunx", "Moon: sextile", "Jupiter: conjunction", "Mercury: trine", "Mars: quincunx", "Venus: square", "Uranus: conjunction", "Neptune: sextile", "Pluto: trine"]},
      {"date": 28, "month": 9, "year": 2023, "Aspects": ["Saturn: sextile", "Sun: quincunx", "Jupiter: conjunction", "Moon: sextile", "Pluto: trine"]},
      {"date": 29, "month": 9, "year": 2023, "Aspects": ["Saturn: sextile", "Sun: quincunx", "Moon: semi-sextile", "Jupiter: conjunction", "Mercury: trine", "Venus: square", "Neptune: sextile", "Pluto: trine"]},
-     {"date": 30, "month": 9, "year": 2023, "Aspects": ["Saturn: sextile", "Sun: quincunx", "Jupiter: conjunction", "Moon: semi-sextile", "Pluto: trine"]}
+     {"date": 30, "month": 9, "year": 2023, "Aspects": ["Saturn: sextile", "Sun: quincunx", "Jupiter: conjunction", "Moon: semi-sextile", "Pluto: trine"]},
+     {"date": 1, "month": 10, "year": 2023, "Aspects": ["Saturn: sextile", "Sun: quincunx", "Moon: conjunction", "Jupiter: conjunction",  "Mars: quincunx", "Mercury: trine", "Neptune: sextile", "Pluto: trine"]},
+     {"date": 2, "month": 10, "year": 2023, "Aspects": ["Saturn: sextile", "Sun: quincunx", "Jupiter: conjunction",  "Mercury: trine", "Pluto: trine"]},
+     {"date": 3, "month": 10, "year": 2023, "Aspects": ["Saturn: sextile", "Moon: semi-sextile", "Sun: quincunx", "Jupiter: conjunction", "Uranus: conjunction", "Mars: quincunx", "Venus: square", "Mercury: trine"]},
+     {"date": 4, "month": 10, "year": 2023, "Aspects": ["Saturn: sextile", "Sun: quincunx", "Jupiter: conjunction", "Mars: quincunx", "Venus: square", "Pluto: trine", "Mercury: trine"]},
+     {"date": 5, "month": 10, "year": 2023, "Aspects": ["Mercury: quincunx", "Moon: sextile", "Sun: quincunx", "Jupiter: conjunction", "Jupiter: conjunction", "Uranus: conjunction", "Mars: quincunx", "Venus: square"]},
+     {"date": 6, "month": 10, "year": 2023, "Aspects": ["Saturn: sextile", "Mercury: quincunx", "Sun: quincunx", "Moon: sextile", "Uranus: conjunction", "Neptune: sextile", "Mars: quincunx", "Pluto: trine", "Venus: square"]},
+     {"date": 7, "month": 10, "year": 2023, "Aspects": ["Saturn: sextile", "Mercury: quincunx", "Jupiter: conjunction", "Sun: quincunx", "Uranus: conjunction", "Neptune: sextile", "Moon: sextile", "Venus: square"]},
+     {"date": 8, "month": 10, "year": 2023, "Aspects": ["Saturn: sextile", "Mercury: quincunx", "Moon: square", "Jupiter: conjunction", "Sun: quincunx", "Sun: quincunx","Uranus: conjunction", "Neptune: sextile", "Mars: quincunx", "Venus: square"]},
+     {"date": 9, "month": 10, "year": 2023, "Aspects": ["Venus: trine", "Saturn: sextile", "Mercury: quincunx", "Jupiter: conjunction", "Sun: quincunx", "Moon: square", "Uranus: conjunction", "Neptune: sextile", "Pluto: trine", "Mars: quincunx"]},
+     {"date": 10, "month": 10, "year": 2023, "Aspects": ["Venus: trine", "Moon: trine", "Mercury: quincunx", "Jupiter: conjunction", "Sun: quincunx", "Uranus: conjunction", "Neptune: sextile", "Pluto: trine", "Mars: quincunx"]},
+     {"date": 11, "month": 10, "year": 2023, "Aspects": ["Saturn: sextile", "Venus: trine", "Mercury: quincunx", "Jupiter: conjunction", "Moon: trine", "Sun: quincunx", "Uranus: conjunction", "Neptune: sextile", "Pluto: trine", "Mars: quincunx"]},
+     {"date": 0, "month": 10, "year": 2023, "Aspects": []}
+     
 ],
 "aries": [
     {"date": 0, "Message": "NO DATA could be loaded. Please try again later."},
@@ -430,7 +567,19 @@
 {"date": 27, "month": 9, "year": 2023, "Aspects": ["Saturn: semi-sextile", "Sun: opposition", "Moon: semi-sextile", "Jupiter: semi-sextile", "Mercury: quincunx", "Mars: opposition", "Venus: trine", "Uranus: semi-sextile", "Neptune: semi-sextile", "Pluto: square"]},
 {"date": 28, "month": 9, "year": 2023, "Aspects": ["Saturn: semi-sextile", "Sun: opposition", "Jupiter: semi-sextile", "Moon: semi-sextile", "Pluto: square"]},
 {"date": 29, "month": 9, "year": 2023, "Aspects": ["Saturn: semi-sextile", "Sun: opposition", "Moon: conjunction", "Jupiter: semi-sextile", "Mercury: quincunx", "Venus: trine", "Neptune: semi-sextile", "Pluto: square"]},
-{"date": 30, "month": 9, "year": 2023, "Aspects": ["Saturn: semi-sextile", "Sun: opposition", "Jupiter: semi-sextile", "Neptune: semi-sextile", "Moon: conjunction", "Pluto: square"]}
+{"date": 30, "month": 9, "year": 2023, "Aspects": ["Saturn: semi-sextile", "Sun: opposition", "Jupiter: semi-sextile", "Neptune: semi-sextile", "Moon: conjunction", "Pluto: square"]},
+{"date": 1, "month": 9, "year": 2023, "Aspects": ["Saturn: semi-sextile", "Sun: opposition", "Moon: semi-sextile", "Jupiter: semi-sextile", "Mars: opposition", "Mercury: quincunx", "Neptune: semi-sextile", "Pluto: square"]},
+{"date": 2, "month": 9, "year": 2023, "Aspects": ["Saturn: semi-sextile", "Sun: opposition", "Jupiter: semi-sextile", "Neptune: semi-sextile", "Mercury: quincunx", "Pluto: square"]},
+{"date": 3, "month": 9, "year": 2023, "Aspects": ["Saturn: semi-sextile", "Moon: sextile", "Sun: opposition", "Jupiter: semi-sextile", "Uranus: semi-sextile", "Mars: opposition", "Venus: trine", "Mercury: quincunx"]},
+{"date": 4, "month": 9, "year": 2023, "Aspects": ["Saturn: semi-sextile", "Sun: opposition", "Jupiter: semi-sextile", "Uranus: semi-sextile", "Mars: opposition", "Venus: trine", "Pluto: square", "Mercury: quincunx"]},
+{"date": 5, "month": 9, "year": 2023, "Aspects": ["Mercury: opposition", "Moon: square", "Sun: opposition", "Jupiter: semi-sextile", "Jupiter: semi-sextile", "Uranus: semi-sextile", "Mars: opposition", "Venus: trine"]},
+{"date": 6, "month": 9, "year": 2023, "Aspects": ["Saturn: semi-sextile", "Mercury: opposition", "Sun: opposition", "Moon: square","Uranus: semi-sextile", "Neptune: semi-sextile", "Mars: opposition", "Pluto: square", "Venus: trine"]},
+{"date": 7, "month": 9, "year": 2023, "Aspects": ["Saturn: semi-sextile", "Mercury: opposition", "Jupiter: semi-sextile", "Sun: opposition", "Uranus: semi-sextile", "Neptune: semi-sextile", "Moon: square", "Venus: trine"]},
+{"date": 8, "month": 9, "year": 2023, "Aspects": ["Saturn: semi-sextile", "Mercury: opposition", "Moon: trine", "Jupiter: semi-sextile", "Sun: opposition",  "Sun: opposition", "Uranus: semi-sextile", "Neptune: semi-sextile", "Mars: opposition", "Venus: trine"]},
+{"date": 9, "month": 9, "year": 2023, "Aspects": ["Venus: quincunx", "Saturn: semi-sextile", "Mercury: opposition", "Jupiter: semi-sextile", "Sun: opposition",  "Moon: trine", "Uranus: semi-sextile", "Neptune: semi-sextile", "Pluto: square", "Mars: opposition"]},
+{"date": 10, "month": 9, "year": 2023, "Aspects": [ "Venus: quincunx", "Moon: quincunx", "Mercury: opposition", "Jupiter: semi-sextile", "Sun: opposition", "Uranus: semi-sextile", "Neptune: semi-sextile", "Pluto: square", "Mars: opposition"]},
+{"date": 11, "month": 9, "year": 2023, "Aspects": ["Saturn: semi-sextile", "Venus: quincunx", "Mercury: opposition", "Jupiter: semi-sextile", "Moon: quincunx", "Sun: opposition", "Uranus: semi-sextile", "Neptune: semi-sextile", "Pluto: square", "Mars: opposition"]}
+
 
 ]
 }
